@@ -36,3 +36,9 @@ Simple Patatap clone application (study project), where user can hit keys on the
 
 [https://young-lowlands-10210.herokuapp.com/](https://young-lowlands-10210.herokuapp.com/)
 
+
+## Completed Tasks
+
+### Codewars
+
+### padawans.net
