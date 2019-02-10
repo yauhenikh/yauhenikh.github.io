@@ -47,3 +47,7 @@ Simple Patatap clone application (study project), where user can hit keys on the
 
 - **Twisty puzzles**. These puzzles are all the descendants of the Rubik's Cube and there are countless variations of them. I like to solve and to collect them. I have 27 puzzles in my collection by now.
 - **Travels in Belarus**. There are many historical places and natural sights in my country. I usually travel with my friends and I have already visited more than 30 different places.
+
+## Contact Me
+
+You can always contact me by email: [khotin.13.nomer@gmail.com](mailto:khotin.13.nomer@gmail.com)
