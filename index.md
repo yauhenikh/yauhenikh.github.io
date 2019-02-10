@@ -42,3 +42,8 @@ Simple Patatap clone application (study project), where user can hit keys on the
 ### Codewars
 
 ### padawans.net
+
+## Interests
+
+- **Twisty puzzles**. These puzzles are all the descendants of the Rubik's Cube and there are countless variations of them. I like to solve and to collect them. I have 27 puzzles in my collection by now.
+- **Travels in Belarus**. There are many historical places and natural sights in my country. I usuallu travel with my friends and I have already visited more than 30 different places.
