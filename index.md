@@ -2,6 +2,13 @@
 
 My name is Yauheni. Not a long time ago I decided to learn programming to make different interesting things. I have chosen C# and .NET Framework, because it is a great tool for the development of desktop applications, web applications, and to work with databases. I was a test engineer at my previous job, I did thermal imaging surveys and made survey reports. I developed [ThermalCalc](https://github.com/yauhenikh/thermal-calc) app, that helped to optimize my work. Later I started to learn JavaScript to make web applications.
 
+## Completed Courses
+
+- **The Web Developer Bootcamp** (Udemy)
+- **C# Basics - For Complete Beginners** (Udemy)
+- **Introduction to Game Development** (Coursera)
+- **Beginning Game Programming with C#** (Coursera)
+
 
 ### Markdown
 
