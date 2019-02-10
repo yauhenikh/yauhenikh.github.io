@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio Page
 
-You can use the [editor on GitHub](https://github.com/yauhenikh/yauhenikh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Yauheni. Not a long time ago I decided to learn programming to make different interesting things. I have chosen C# and .NET Framework, because it is a great tool for the development of desktop applications, web applications, and to work with databases. I was a test engineer at my previous job, I did thermal imaging surveys and made survey reports. I developed [ThermalCalc](https://github.com/yauhenikh/thermal-calc) app, that helped to optimize my work. Later I started to learn JavaScript to make web applications.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
