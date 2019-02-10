@@ -34,5 +34,5 @@ RGB color guessing game (study project), a tool to practice RGB colors. Programm
 
 Simple Patatap clone application (study project), where user can hit keys on the keyboard and each key corresponds to a sound, that is played, and a little animation. Programming language: JavaScript, libraries: paper.js, howler.js.
 
-[https://young-lowlands-10210.herokuapp.com/](https://protected-tundra-57106.herokuapp.com/)
+[https://young-lowlands-10210.herokuapp.com/](https://young-lowlands-10210.herokuapp.com/)
 
