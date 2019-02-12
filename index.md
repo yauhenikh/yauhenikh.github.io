@@ -45,10 +45,10 @@ Simple Patatap clone application (study project), where user can hit keys on the
 
 Solutions for the tasks from padawans.net can be viewed only by the contributors.
 
-- [PadawansTask1](https://github.com/yauhenikh/PadawansTask1)(town population)
-- [PadawansTask2](https://github.com/yauhenikh/PadawansTask2)(sum of the first n elements of a sequence)
-- [PadawansTask3](https://github.com/yauhenikh/PadawansTask3)(GCD of two integers)
-- [FancyCalc](https://github.com/yauhenikh/FancyCalc)(expression parser)
+- [PadawansTask1](https://github.com/yauhenikh/PadawansTask1) (town population)
+- [PadawansTask2](https://github.com/yauhenikh/PadawansTask2) (sum of the first n elements of a sequence)
+- [PadawansTask3](https://github.com/yauhenikh/PadawansTask3) (GCD of two integers)
+- [FancyCalc](https://github.com/yauhenikh/FancyCalc) (expression parser)
 
 ## Interests
 
