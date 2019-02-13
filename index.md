@@ -41,6 +41,11 @@ Simple Patatap clone application (study project), where user can hit keys on the
 
 ### Codewars
 
+Link to my Codewars profile: [https://www.codewars.com/users/YauheniKh/](https://www.codewars.com/users/YauheniKh/)
+
+Some Codewars tasks haven't C# in proposed languages. Here are the links to the solutions (can be viewed only by the contributors):
+- [Convert A Hex String To RGB](https://github.com/yauhenikh/ConvertHexStringToRGB)
+
 ### padawans.net
 
 Solutions for the tasks from padawans.net can be viewed only by the contributors.
