@@ -45,6 +45,7 @@ Link to my Codewars profile: [https://www.codewars.com/users/YauheniKh/](https:/
 
 Some Codewars tasks haven't C# in proposed languages. Here are the links to the solutions (can be viewed only by the contributors):
 - [Convert A Hex String To RGB](https://github.com/yauhenikh/ConvertHexStringToRGB)
+- [Manipulate URL Parameters](https://github.com/yauhenikh/ManipulateURLParams)
 
 ### padawans.net
 
