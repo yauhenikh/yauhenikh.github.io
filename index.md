@@ -43,13 +43,13 @@ Simple Patatap clone application (study project), where user can hit keys on the
 
 Link to my Codewars profile: [https://www.codewars.com/users/YauheniKh/](https://www.codewars.com/users/YauheniKh/)
 
-Some Codewars tasks haven't C# in proposed languages. Here are the links to the solutions (can be viewed only by the contributors):
+Some Codewars tasks haven't C# in proposed languages. Here are the links to the solutions (can be viewed only by the collaborators):
 - [Convert A Hex String To RGB](https://github.com/yauhenikh/ConvertHexStringToRGB)
 - [Manipulate URL Parameters](https://github.com/yauhenikh/ManipulateURLParams)
 
 ### padawans.net
 
-Solutions for the tasks from padawans.net can be viewed only by the contributors.
+Solutions for the tasks from padawans.net can be viewed only by the collaborators.
 
 - [PadawansTask1](https://github.com/yauhenikh/PadawansTask1) (town population)
 - [PadawansTask2](https://github.com/yauhenikh/PadawansTask2) (sum of the first n elements of a sequence)
