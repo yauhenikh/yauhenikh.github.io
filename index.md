@@ -55,6 +55,10 @@ Solutions for the tasks from padawans.net can be viewed only by the collaborator
 - [PadawansTask2](https://github.com/yauhenikh/PadawansTask2) (sum of the first n elements of a sequence)
 - [PadawansTask3](https://github.com/yauhenikh/PadawansTask3) (GCD of two integers)
 - [FancyCalc](https://github.com/yauhenikh/FancyCalc) (expression parser)
+- [PadawansTask4](https://github.com/yauhenikh/PadawansTask4) (count of vowels in the given string)
+- [PadawansTask5](https://github.com/yauhenikh/PadawansTask5) (check if the given array is symmetric)
+- [PadawansTask6](https://github.com/yauhenikh/PadawansTask6) (nearest largest integer consisting of the digits of the original number)
+- [PadawansTask13](https://github.com/yauhenikh/PadawansTask13) (create new Employee class)
 
 ## Interests
 
