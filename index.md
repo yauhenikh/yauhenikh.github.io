@@ -59,6 +59,12 @@ Solutions for the tasks from padawans.net can be viewed only by the collaborator
 - [PadawansTask5](https://github.com/yauhenikh/PadawansTask5) (check if the given array is symmetric)
 - [PadawansTask6](https://github.com/yauhenikh/PadawansTask6) (nearest largest integer consisting of the digits of the original number)
 - [PadawansTask13](https://github.com/yauhenikh/PadawansTask13) (create new Employee class)
+- [PadawansTask7](https://github.com/yauhenikh/PadawansTask7) (sort the array of strings in order of their length)
+- [PadawansTask8](https://github.com/yauhenikh/PadawansTask8) (remove all duplicate words from string)
+- [PadawansTask9](https://github.com/yauhenikh/PadawansTask9) (return from a set of points only points that are h-neighbors for a point with integer coordinates x and y)
+- [PadawansTask10](https://github.com/yauhenikh/PadawansTask10) (determine whether the variable is null or not)
+- [PadawansTask11](https://github.com/yauhenikh/PadawansTask11) (find index of element in array for which the sum of the elements to the left of it is equal to the sum of the elements on the right)
+- [PadawansTask12](https://github.com/yauhenikh/PadawansTask12) (determine whether all characters in a string occur only once)
 
 ## Interests
 
