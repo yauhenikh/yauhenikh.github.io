@@ -65,6 +65,7 @@ Solutions for the tasks from padawans.net can be viewed only by the collaborator
 - [PadawansTask10](https://github.com/yauhenikh/PadawansTask10) (determine whether the variable is null or not)
 - [PadawansTask11](https://github.com/yauhenikh/PadawansTask11) (find index of element in array for which the sum of the elements to the left of it is equal to the sum of the elements on the right)
 - [PadawansTask12](https://github.com/yauhenikh/PadawansTask12) (determine whether all characters in a string occur only once)
+- [PadawansTask15](https://github.com/yauhenikh/PadawansTask15) (working with collections that implements IEnumerable<T> interface)
 
 ## Interests
 
