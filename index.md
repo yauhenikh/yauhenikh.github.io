@@ -71,7 +71,7 @@ Solutions for the tasks from padawans.net can be viewed only by the collaborator
 
 Links to the solutions for the tasks from grow.by:
 
-- [Multy-file assembly](https://github.com/yauhenikh/MultiFileAssemblyTask) (Create a multi-file assembly. Assign an assembly to the strong name and place it in the GAC. Analyze the resulting assembly using ILDASM, JetBrains dotPeek.)
+- [Multy-file assembly](https://github.com/yauhenikh/MultiFileAssemblyTask) (create a multi-file assembly)
 
 ## Interests
 
