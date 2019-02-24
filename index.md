@@ -71,7 +71,7 @@ Solutions for the tasks from padawans.net can be viewed only by the collaborator
 
 Links to the solutions for the tasks from grow.by:
 
-- [Multy-file assembly](https://github.com/yauhenikh/MultiFileAssemblyTask) (create a multi-file assembly)
+- [Multi-file assembly](https://github.com/yauhenikh/MultiFileAssemblyTask) (create a multi-file assembly)
 
 ## Interests
 
