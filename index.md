@@ -72,6 +72,8 @@ Solutions for the tasks from padawans.net can be viewed only by the collaborator
 Links to the solutions for the tasks from grow.by:
 
 - [Multi-file assembly](https://github.com/yauhenikh/MultiFileAssemblyTask) (create a multi-file assembly)
+- [Get started with unit testing](https://github.com/yauhenikh/GetStartedWithUnitTesting) (create a unit test project)
+- [First 20 Fibonacci numbers](https://github.com/yauhenikh/First20FibonacciNumbers) (generate first 20 Fibonacci numbers)
 
 ## Interests
 
