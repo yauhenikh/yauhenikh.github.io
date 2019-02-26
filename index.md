@@ -75,6 +75,12 @@ Links to the solutions for the tasks from grow.by:
 - [Get started with unit testing](https://github.com/yauhenikh/GetStartedWithUnitTesting) (create a unit test project)
 - [First 20 Fibonacci numbers](https://github.com/yauhenikh/First20FibonacciNumbers) (generate first 20 Fibonacci numbers)
 
+### Demo-project
+
+I created the TicTacToe project. The game has two modes: player vs player (by default), player vs AI (the AI is not very smart).
+
+- [Tic Tac Toe](https://github.com/yauhenikh/TicTacToe)
+
 ## Interests
 
 - **Twisty puzzles**. These puzzles are all the descendants of the Rubik's Cube and there are countless variations of them. I like to solve and to collect them. I have 27 puzzles in my collection by now.
