@@ -39,6 +39,15 @@ Simple Patatap clone application (study project), where user can hit keys on the
 
 ## Completed Tasks
 
+### Stage #2 Coding Practice
+
+Solutions for theses tasks can be viewed only by the collaborators.
+
+- Implement DoublyLinkedList<T>
+  - [CustomDoublyLinkedList](https://github.com/yauhenikh/CustomCollections/tree/master/CustomDoublyLinkedList) class library project
+  - [CustomDoublyLinkedListTests](https://github.com/yauhenikh/CustomCollections/tree/master/CustomDoublyLinkedListTests) unit tests project
+  - [CustomDoublyLinkedListConsoleUI](https://github.com/yauhenikh/CustomCollections/tree/master/CustomDoublyLinkedListConsoleUI) console UI project
+
 ### Codewars
 
 Link to my Codewars profile: [https://www.codewars.com/users/YauheniKh/](https://www.codewars.com/users/YauheniKh/)
