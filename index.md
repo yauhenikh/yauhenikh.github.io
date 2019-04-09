@@ -52,6 +52,11 @@ Solutions for these tasks can be viewed only by the collaborators.
   - [CustomQueue](https://github.com/yauhenikh/CustomCollections/tree/master/CustomQueue) class library project
   - [CustomQueueTests](https://github.com/yauhenikh/CustomCollections/tree/master/CustomQueueTests) unit tests project
   - [CustomQueueConsoleUI](https://github.com/yauhenikh/CustomCollections/tree/master/CustomQueueConsoleUI) console UI project
+  
+- Implement Stack&#60;T&#62; - use DoublyLinkedList as internal storage
+  - [CustomStack](https://github.com/yauhenikh/CustomCollections/tree/master/CustomStack) class library project
+  - [CustomStackTests](https://github.com/yauhenikh/CustomCollections/tree/master/CustomStackTests) unit tests project
+  - [CustomStackConsoleUI](https://github.com/yauhenikh/CustomCollections/tree/master/CustomStackConsoleUI) console UI project
 
 ### Codewars
 
