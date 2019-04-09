@@ -47,6 +47,11 @@ Solutions for theses tasks can be viewed only by the collaborators.
   - [CustomDoublyLinkedList](https://github.com/yauhenikh/CustomCollections/tree/master/CustomDoublyLinkedList) class library project
   - [CustomDoublyLinkedListTests](https://github.com/yauhenikh/CustomCollections/tree/master/CustomDoublyLinkedListTests) unit tests project
   - [CustomDoublyLinkedListConsoleUI](https://github.com/yauhenikh/CustomCollections/tree/master/CustomDoublyLinkedListConsoleUI) console UI project
+  
+- Implement Queue&#60;T&#62; - use DoublyLinkedList as internal storage
+  - [CustomQueue](https://github.com/yauhenikh/CustomCollections/tree/master/CustomQueue) class library project
+  - [CustomQueueTests](https://github.com/yauhenikh/CustomCollections/tree/master/CustomQueueTests) unit tests project
+  - [CustomQueueConsoleUI](https://github.com/yauhenikh/CustomCollections/tree/master/CustomQueueConsoleUI) console UI project
 
 ### Codewars
 
