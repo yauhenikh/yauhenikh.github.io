@@ -41,7 +41,7 @@ Simple Patatap clone application (study project), where user can hit keys on the
 
 ### Stage #2 Coding Practice
 
-Solutions for theses tasks can be viewed only by the collaborators.
+Solutions for these tasks can be viewed only by the collaborators.
 
 - Implement DoublyLinkedList&#60;T&#62;
   - [CustomDoublyLinkedList](https://github.com/yauhenikh/CustomCollections/tree/master/CustomDoublyLinkedList) class library project
