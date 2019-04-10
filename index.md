@@ -57,6 +57,11 @@ Solutions for these tasks can be viewed only by the collaborators.
   - [CustomStack](https://github.com/yauhenikh/CustomCollections/tree/master/CustomStack) class library project
   - [CustomStackTests](https://github.com/yauhenikh/CustomCollections/tree/master/CustomStackTests) unit tests project
   - [CustomStackConsoleUI](https://github.com/yauhenikh/CustomCollections/tree/master/CustomStackConsoleUI) console UI project
+  
+- Implement Set&#60;T&#62;
+  - [CustomSet](https://github.com/yauhenikh/CustomCollections/tree/master/CustomSet) class library project
+  - [CustomSetTests](https://github.com/yauhenikh/CustomCollections/tree/master/CustomSetTests) unit tests project
+  - [CustomSetConsoleUI](https://github.com/yauhenikh/CustomCollections/tree/master/CustomSetConsoleUI) console UI project
 
 ### Codewars
 
