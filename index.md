@@ -62,6 +62,11 @@ Solutions for these tasks can be viewed only by the collaborators.
   - [CustomSet](https://github.com/yauhenikh/CustomCollections/tree/master/CustomSet) class library project
   - [CustomSetTests](https://github.com/yauhenikh/CustomCollections/tree/master/CustomSetTests) unit tests project
   - [CustomSetConsoleUI](https://github.com/yauhenikh/CustomCollections/tree/master/CustomSetConsoleUI) console UI project
+  
+- Implement CustomHashTable&#60;K, V&#62;
+  - [CustomHashTable](https://github.com/yauhenikh/CustomCollections/tree/master/CustomHashTable) class library project
+  - [CustomHashTableTests](https://github.com/yauhenikh/CustomCollections/tree/master/CustomHashTableTests) unit tests project
+  - [CustomHashTableConsoleUI](https://github.com/yauhenikh/CustomCollections/tree/master/CustomHashTableConsoleUI) console UI project
 
 ### Codewars
 
