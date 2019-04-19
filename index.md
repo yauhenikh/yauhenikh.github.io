@@ -67,6 +67,11 @@ Solutions for these tasks can be viewed only by the collaborators.
   - [CustomHashTable](https://github.com/yauhenikh/CustomCollections/tree/master/CustomHashTable) class library project
   - [CustomHashTableTests](https://github.com/yauhenikh/CustomCollections/tree/master/CustomHashTableTests) unit tests project
   - [CustomHashTableConsoleUI](https://github.com/yauhenikh/CustomCollections/tree/master/CustomHashTableConsoleUI) console UI project
+  
+- Implement BinarySearchTree&#60;T&#62;
+  - [CustomBinarySearchTree](https://github.com/yauhenikh/CustomCollections/tree/master/CustomBinarySearchTree) class library project
+  - [CustomBinarySearchTreeTests](https://github.com/yauhenikh/CustomCollections/tree/master/CustomBinarySearchTreeTests) unit tests project
+  - [CustomBinarySearchTreeConsoleUI](https://github.com/yauhenikh/CustomCollections/tree/master/CustomBinarySearchTreeConsoleUI) console UI project
 
 ### Codewars
 
