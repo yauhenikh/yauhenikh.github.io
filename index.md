@@ -72,6 +72,11 @@ Solutions for these tasks can be viewed only by the collaborators.
   - [CustomBinarySearchTree](https://github.com/yauhenikh/CustomCollections/tree/master/CustomBinarySearchTree) class library project
   - [CustomBinarySearchTreeTests](https://github.com/yauhenikh/CustomCollections/tree/master/CustomBinarySearchTreeTests) unit tests project
   - [CustomBinarySearchTreeConsoleUI](https://github.com/yauhenikh/CustomCollections/tree/master/CustomBinarySearchTreeConsoleUI) console UI project
+  
+- Implement multithreaded XML parser
+  - [CustomXMLParser](https://github.com/yauhenikh/CustomXMLParser/tree/master/CustomXMLParser) class library project
+  - [CustomXMLParserTests](https://github.com/yauhenikh/CustomXMLParser/tree/master/CustomXMLParserTests) unit tests project
+  - [CustomXMLParserConsoleUI](https://github.com/yauhenikh/CustomXMLParser/tree/master/CustomXMLParserConsoleUI) console UI project
 
 ### Codewars
 
